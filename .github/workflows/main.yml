@@ -24,4 +24,4 @@ jobs:
           user_name: golungo
           user_email: lungo@lungo.dev
           publish_branch: main
-          cname: golungo.dev
+          cname: lungo.dev
