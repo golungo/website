@@ -1,0 +1,23 @@
+baseURL = "https://lungo.dev/"
+languageCode = "en-us"
+title = "Lungo - A fast and simple MongoDB driver for Go"
+description = "Lungo is a fast, small, and simple MongoDB driver for Go"
+theme = "lungotheme"
+googleAnalytics = 'G-ZMZ2L8RX71'
+[menu]
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = -110
+[[menu.main]]
+  name = "Blog"
+  url = "/posts/"
+  weight = -109
+[[menu.main]]
+  name = "Documentation"
+  url = "/docs/"
+  weight = -109
+[[menu.main]]
+  name = "Github"
+  url = "https://github.com/golungo/lungo"
+  weight = -108

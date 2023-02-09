@@ -1,0 +1,3 @@
+[submodule "themes/lungotheme"]
+	path = themes/lungotheme
+	url = https://github.com/golungo/lungotheme.git
