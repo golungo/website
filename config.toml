@@ -21,3 +21,5 @@ googleAnalytics = 'G-ZMZ2L8RX71'
   name = "Github"
   url = "https://github.com/golungo/lungo"
   weight = -108
+[markup.goldmark.renderer]
+unsafe= true
