@@ -4,6 +4,7 @@ title = "Lungo - A fast and simple MongoDB driver for Go"
 description = "Lungo is a fast, small, and simple MongoDB driver for Go"
 theme = "lungotheme"
 googleAnalytics = 'G-ZMZ2L8RX71'
+enableRobotsTXT = true
 [menu]
 [[menu.main]]
   name = "About"
